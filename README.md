@@ -24,5 +24,9 @@ This project presents an interactive Sales Dashboard developed using Microsoft P
 ## Dashboard Interaction 
 -<a href="https://github.com/janhavipatil601-jp/Store_Sales_Dashboard/blob/main/sale.pbix">View Dashboard</a>
 
- ## Dashboard
+## Dashboard
  ![Screeshort(495)](https://github.com/janhavipatil601-jp/Store_Sales_Dashboard/blob/main/Screenshot%202026-10-22%20160503.png)
+
+## Author
+### Janhavi Patil
+### Aspiring Data Analyst | Power BI | Business Analytics | Data Visualization
