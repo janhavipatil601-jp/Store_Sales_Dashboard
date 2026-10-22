@@ -1,4 +1,4 @@
-# Store_Sales_Dashboard
+# Super Store Sales Dashboard
 ## Project Overview
 This project presents an interactive Sales Dashboard developed using Microsoft Power BI to analyze sales performance and provide meaningful business insights.
 
