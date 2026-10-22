@@ -22,7 +22,7 @@ This project presents an interactive Sales Dashboard developed using Microsoft P
 - Business and sales data analysis
 
 ## Dashboard Interaction 
--<a href="https://github.com/janvipatil2601-oss/Data-Analysis-Dashboard/blob/main/sale%20dashboard.pbix">View Dashboard</a>
+-<a href="https://github.com/janhavipatil601-jp/Store_Sales_Dashboard/blob/main/sale.pbix">View Dashboard</a>
 
  ## Dashboard
  ![Screeshort(495)](https://github.com/janhavipatil601-jp/Store_Sales_Dashboard/blob/main/Screenshot%202026-10-22%20160503.png)
