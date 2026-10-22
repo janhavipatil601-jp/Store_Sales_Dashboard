@@ -9,11 +9,11 @@ This project presents an interactive Sales Dashboard developed using Microsoft P
 -Support data-driven business decisions.
 
 ## Dashboard Features
-Sales performance visualizations
-Year, region analysis
-Product category analysis
-Monthly sale and profit analysis
-Low performance product analysis
+- Sales performance visualizations
+- Year, region analysis
+- Product category analysis
+- Monthly sale and profit analysis
+- Low performance product analysis
 
 ## Skills Demonstrated
 - Data cleaning and transformation
